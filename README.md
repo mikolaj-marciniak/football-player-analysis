@@ -1,4 +1,4 @@
-# MSiD
+# Football Player Analysis
 
 Repository with three parts of an MSiD course project based on analysis of football player data from `players_22.csv`.
 
